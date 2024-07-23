@@ -7,7 +7,7 @@ public class DemoClass {
 		
 		System.out.println("This is Test Case2");
 
-		System.out.println("This is Test Case3");
+		
 	}
 
 }
